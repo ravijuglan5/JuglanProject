@@ -1,0 +1,20 @@
+package mywalgreens;
+
+import org.testng.annotations.Test;
+
+public class AppiumTest {
+
+	@Test
+	public void AndroidTest()
+	{
+		System.out.println("Android started");
+	}
+	
+	
+	@Test
+	public void iOSTest()
+	{
+		System.out.println("iOS started");
+	}
+	
+}

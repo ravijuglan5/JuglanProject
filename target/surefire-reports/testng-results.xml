@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="94" started-at="2021-08-07T11:46:43 IST" finished-at="2021-08-07T11:46:44 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="94" started-at="2021-08-07T11:46:43 IST" finished-at="2021-08-07T11:46:44 IST">
+      <class name="mywalgreens.AppiumTest">
+        <test-method status="PASS" signature="AndroidTest()[pri:0, instance:mywalgreens.AppiumTest@2833cc44]" name="AndroidTest" duration-ms="5" started-at="2021-08-07T11:46:44 IST" finished-at="2021-08-07T11:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidTest -->
+        <test-method status="PASS" signature="iOSTest()[pri:0, instance:mywalgreens.AppiumTest@2833cc44]" name="iOSTest" duration-ms="0" started-at="2021-08-07T11:46:44 IST" finished-at="2021-08-07T11:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iOSTest -->
+      </class> <!-- mywalgreens.AppiumTest -->
+      <class name="mywalgreens.SeleniumTest">
+        <test-method status="PASS" signature="BrowserTest()[pri:0, instance:mywalgreens.SeleniumTest@57e1b0c]" name="BrowserTest" duration-ms="1" started-at="2021-08-07T11:46:44 IST" finished-at="2021-08-07T11:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method status="PASS" signature="BrowserTest2()[pri:0, instance:mywalgreens.SeleniumTest@57e1b0c]" name="BrowserTest2" duration-ms="0" started-at="2021-08-07T11:46:44 IST" finished-at="2021-08-07T11:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest2 -->
+      </class> <!-- mywalgreens.SeleniumTest -->
+      <class name="mywalgreens.RestAPITest">
+        <test-method status="PASS" signature="PostTest()[pri:0, instance:mywalgreens.RestAPITest@2781e022]" name="PostTest" duration-ms="0" started-at="2021-08-07T11:46:44 IST" finished-at="2021-08-07T11:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTest -->
+        <test-method status="PASS" signature="PutTest()[pri:0, instance:mywalgreens.RestAPITest@2781e022]" name="PutTest" duration-ms="0" started-at="2021-08-07T11:46:44 IST" finished-at="2021-08-07T11:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutTest -->
+      </class> <!-- mywalgreens.RestAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

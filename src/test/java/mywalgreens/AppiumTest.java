@@ -16,6 +16,14 @@ public class AppiumTest {
 	{
 		System.out.println("iOS started");
 		System.out.println("iOS git changes");
+		System.out.println("iOS git after branch changes");
 	}
 	
+	@Test
+	public void iOSBranchTest()
+	{
+		System.out.println("iOS started");
+		System.out.println("iOS git changes");
+		System.out.println("iOS git after branch changes");
+	} 
 }

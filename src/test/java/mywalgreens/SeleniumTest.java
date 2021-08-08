@@ -17,5 +17,12 @@ public class SeleniumTest {
 		System.out.println("Browser 2 started");
 		System.out.println("Git changes Browser 2 started");
 	}
+
+	@Test
+	public void BrowserTest3()
+	{
+		System.out.println("Browser 2 after branch started");
+		System.out.println("Git changes after Browser 2 started");
+	}	
 	
 }

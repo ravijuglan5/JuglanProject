@@ -15,6 +15,7 @@ public class SeleniumTest {
 	public void BrowserTest2()
 	{
 		System.out.println("Browser 2 started");
+		System.out.println("Git changes Browser 2 started");
 	}
 	
 }

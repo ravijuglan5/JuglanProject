@@ -15,6 +15,7 @@ public class AppiumTest {
 	public void iOSTest()
 	{
 		System.out.println("iOS started");
+		System.out.println("iOS git changes");
 	}
 	
 }
